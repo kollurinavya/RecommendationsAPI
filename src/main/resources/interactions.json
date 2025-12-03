@@ -1,0 +1,10 @@
+[
+  { "userId": "U1001", "itemId": "P601", "action": "view" },
+  { "userId": "U1001", "itemId": "P602", "action": "add_to_cart" },
+  { "userId": "U1001", "itemId": "P603", "action": "view" },
+  { "userId": "U2002", "itemId": "P602", "action": "view" },
+  { "userId": "U2002", "itemId": "P604", "action": "view" },
+  { "userId": "U3003", "itemId": "P601", "action": "view" },
+  { "userId": "U3003", "itemId": "P605", "action": "add_to_cart" },
+  { "userId": "U3003", "itemId": "P606", "action": "view" }
+]
